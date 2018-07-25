@@ -1,1 +1,1 @@
-# Crud-Vaadin-SpringBoot
+# Crud-Vaadin-SpringBoot-SpringJPA
